@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.oddItem {
+    background-color: #ffc0cb;
+    font-family: Verdana, Dejayvu Sans, sans-serif;
+}
+.blueTestID {
+    color: #0000ff;
+    background-color: transparent;
+    font-size: 36px;
+}
+.thirdItem{
+    font-size: 24px;
+}
+.greenBackgroundID {
+    background-color: #00ff00;
+    font-weight: bold;
+}
