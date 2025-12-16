@@ -2,7 +2,7 @@
     background-color: #ffc0cb;
     font-family: Verdana, Dejayvu Sans, sans-serif;
 }
-.blueTestID {
+#blueTextID {
     color: #0000ff;
     background-color: transparent;
     font-size: 36px;
@@ -10,7 +10,7 @@
 .thirdItem{
     font-size: 24px;
 }
-.greenBackgroundID {
+#greenBackgroundID {
     background-color: #00ff00;
     font-weight: bold;
 }
